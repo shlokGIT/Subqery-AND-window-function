@@ -92,25 +92,41 @@ It is designed for:
 
 ---
 
-####🛠️ Skills Demonstrated
+🛠️ Skills Demonstrated
+
 Advanced SQL Query Writing
+
 Analytical Thinking
+
 Real-world Data Analysis
+
 Window Function Mastery
+
 Performance-Oriented Query Design
 
+---
 
-####🎯 Use Cases
+
+🎯 Use Cases
+
 Data Analyst Interviews
+
 Business Intelligence Reporting
+
 Salary & HR Analytics
+
 Data Exploration Tasks
 
-####📌 Author
+---
+
+📌 Author
 
 Shlok Singh
 
 🎓 B.Tech CSE 
+
 💼 Aspiring Data Analyst
+
 🧰 Skills: SQL, Excel, Advanced Excel, Power BI
+
 
